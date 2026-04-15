@@ -1,3 +1,0 @@
-/home/zt/titanbench/build/CMakeFiles/titanbench.dir
-/home/zt/titanbench/build/CMakeFiles/edit_cache.dir
-/home/zt/titanbench/build/CMakeFiles/rebuild_cache.dir

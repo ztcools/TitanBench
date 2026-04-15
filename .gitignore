@@ -9,6 +9,8 @@ dist/
 *.exe
 *.out
 *.app
+# 新增：TitanBench 可执行文件（核心）
+titanbench
 
 # CMake generated files
 CMakeCache.txt
@@ -20,6 +22,8 @@ compile_commands.json
 # vcpkg dependencies
 vcpkg_installed/
 .vcpkg-root
+# 新增：vcpkg 配置文件
+vcpkg.json
 
 # IDE and editor files
 .cache/
