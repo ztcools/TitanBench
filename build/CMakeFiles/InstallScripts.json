@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zt/titanbench/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
